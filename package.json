@@ -1,0 +1,16 @@
+{
+  "name": "context-zone",
+  "version": "0.0.1",
+  "description": "The async context solution to rule them all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewloring/context-zone.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "engines" : { "node" : ">=8" }
+}
